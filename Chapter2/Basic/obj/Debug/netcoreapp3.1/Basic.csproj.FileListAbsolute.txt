@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Basic\obj\Debug\netcoreapp3.1\Basic.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Basic\bin\Debug\netcoreapp3.1\Basic.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Basic\bin\Debug\netcoreapp3.1\Basic.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Basic\bin\Debug\netcoreapp3.1\Basic.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Basic\bin\Debug\netcoreapp3.1\Basic.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Basic\obj\Debug\netcoreapp3.1\Basic.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Basic\obj\Debug\netcoreapp3.1\Basic.pdb
