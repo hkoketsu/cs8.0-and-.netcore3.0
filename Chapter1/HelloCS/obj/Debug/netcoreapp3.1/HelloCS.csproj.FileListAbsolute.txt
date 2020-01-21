@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\c#\Chapter1\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.exe
+C:\Users\hirok\Codes\c#\Chapter1\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.deps.json
+C:\Users\hirok\Codes\c#\Chapter1\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.json
+C:\Users\hirok\Codes\c#\Chapter1\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.dev.json
+C:\Users\hirok\Codes\c#\Chapter1\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.dll
+C:\Users\hirok\Codes\c#\Chapter1\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.pdb
+C:\Users\hirok\Codes\c#\Chapter1\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\c#\Chapter1\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\c#\Chapter1\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfo.cs
+C:\Users\hirok\Codes\c#\Chapter1\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.dll
+C:\Users\hirok\Codes\c#\Chapter1\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.pdb
