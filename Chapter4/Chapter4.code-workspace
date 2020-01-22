@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Debugging"
+		},
+		{
+			"path": "Dumping"
+		},
+		{
+			"path": "Instrumenting"
+		}
+	],
+	"settings": {}
+}
