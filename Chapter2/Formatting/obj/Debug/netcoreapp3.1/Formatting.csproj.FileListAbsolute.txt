@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Formatting\bin\Debug\netcoreapp3.1\Formatting.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Formatting\bin\Debug\netcoreapp3.1\Formatting.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Formatting\bin\Debug\netcoreapp3.1\Formatting.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Formatting\bin\Debug\netcoreapp3.1\Formatting.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Formatting\obj\Debug\netcoreapp3.1\Formatting.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Formatting\obj\Debug\netcoreapp3.1\Formatting.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter2\Formatting\obj\Debug\netcoreapp3.1\Formatting.pdb
