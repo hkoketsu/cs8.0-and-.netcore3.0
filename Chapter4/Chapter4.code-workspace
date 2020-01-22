@@ -11,6 +11,12 @@
 		},
 		{
 			"path": "Instrumenting"
+		},
+		{
+			"path": "CalculatorLib"
+		},
+		{
+			"path": "CalculatorLibUnitTests"
 		}
 	],
 	"settings": {}

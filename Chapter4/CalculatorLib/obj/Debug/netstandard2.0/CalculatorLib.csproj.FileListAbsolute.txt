@@ -1,0 +1,8 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter4\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter4\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter4\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter4\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter4\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter4\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter4\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter4\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.pdb
