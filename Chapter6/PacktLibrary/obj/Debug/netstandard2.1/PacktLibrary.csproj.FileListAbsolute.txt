@@ -1,0 +1,8 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.pdb

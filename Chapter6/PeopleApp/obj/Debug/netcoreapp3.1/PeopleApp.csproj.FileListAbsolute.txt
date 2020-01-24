@@ -1,0 +1,14 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\bin\Debug\netcoreapp3.1\PacktLibrary.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\bin\Debug\netcoreapp3.1\PacktLibrary.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csproj.CopyComplete
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter6\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.pdb
