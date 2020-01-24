@@ -1,0 +1,3 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter7\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter7\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter7\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.AssemblyInfo.cs
