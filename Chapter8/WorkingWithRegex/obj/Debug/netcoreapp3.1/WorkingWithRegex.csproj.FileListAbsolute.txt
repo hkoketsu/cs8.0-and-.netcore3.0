@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithRegex\bin\Debug\netcoreapp3.1\WorkingWithRegex.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithRegex\bin\Debug\netcoreapp3.1\WorkingWithRegex.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithRegex\bin\Debug\netcoreapp3.1\WorkingWithRegex.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithRegex\bin\Debug\netcoreapp3.1\WorkingWithRegex.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithRegex\bin\Debug\netcoreapp3.1\WorkingWithRegex.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithRegex\bin\Debug\netcoreapp3.1\WorkingWithRegex.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithRegex\obj\Debug\netcoreapp3.1\WorkingWithRegex.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithRegex\obj\Debug\netcoreapp3.1\WorkingWithRegex.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithRegex\obj\Debug\netcoreapp3.1\WorkingWithRegex.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithRegex\obj\Debug\netcoreapp3.1\WorkingWithRegex.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithRegex\obj\Debug\netcoreapp3.1\WorkingWithRegex.pdb

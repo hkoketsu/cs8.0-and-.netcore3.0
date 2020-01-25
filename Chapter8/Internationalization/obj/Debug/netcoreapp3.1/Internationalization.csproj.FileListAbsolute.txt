@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.pdb

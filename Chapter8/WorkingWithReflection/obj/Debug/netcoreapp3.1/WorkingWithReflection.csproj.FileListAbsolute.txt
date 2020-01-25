@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.pdb

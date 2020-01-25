@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "Chapter08",
+			"path": "C:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\cs8dotnetcore3\\Chapter08"
+		},
+		{
+			"name": "WorkingWithNumbers",
+			"path": "WorkingWithNumbers"
+		},
+		{
+			"path": "WorkingWithText"
+		},
+		{
+			"path": "WorkingWithRegex"
+		},
+		{
+			"path": "WorkingWithLists"
+		},
+		{
+			"path": "WorkingWithNetworkResources"
+		},
+		{
+			"path": "WorkingWithReflection"
+		},
+		{
+			"path": "Internationalization"
+		}
+	],
+	"settings": {}
+}

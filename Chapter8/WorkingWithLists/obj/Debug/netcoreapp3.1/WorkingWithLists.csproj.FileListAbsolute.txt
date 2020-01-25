@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.pdb

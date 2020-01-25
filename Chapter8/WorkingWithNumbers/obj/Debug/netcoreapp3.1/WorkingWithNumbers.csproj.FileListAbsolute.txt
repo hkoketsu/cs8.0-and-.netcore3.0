@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter8\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.pdb
