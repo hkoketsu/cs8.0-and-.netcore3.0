@@ -1,0 +1,14 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csproj.CopyComplete
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.pdb

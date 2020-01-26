@@ -1,0 +1,14 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.csproj.CopyComplete
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.pdb

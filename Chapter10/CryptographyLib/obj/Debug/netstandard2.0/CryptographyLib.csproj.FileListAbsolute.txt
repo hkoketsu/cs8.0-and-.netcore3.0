@@ -1,0 +1,8 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\CryptographyLib\bin\Debug\netstandard2.0\CryptographyLib.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\CryptographyLib\bin\Debug\netstandard2.0\CryptographyLib.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\CryptographyLib\bin\Debug\netstandard2.0\CryptographyLib.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.pdb

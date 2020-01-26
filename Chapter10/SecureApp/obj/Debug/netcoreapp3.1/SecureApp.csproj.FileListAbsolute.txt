@@ -1,0 +1,14 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.csproj.CopyComplete
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.pdb
