@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqInParallel\bin\Debug\netcoreapp3.1\LinqInParallel.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqInParallel\bin\Debug\netcoreapp3.1\LinqInParallel.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqInParallel\bin\Debug\netcoreapp3.1\LinqInParallel.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqInParallel\bin\Debug\netcoreapp3.1\LinqInParallel.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqInParallel\bin\Debug\netcoreapp3.1\LinqInParallel.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqInParallel\bin\Debug\netcoreapp3.1\LinqInParallel.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqInParallel\obj\Debug\netcoreapp3.1\LinqInParallel.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqInParallel\obj\Debug\netcoreapp3.1\LinqInParallel.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqInParallel\obj\Debug\netcoreapp3.1\LinqInParallel.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqInParallel\obj\Debug\netcoreapp3.1\LinqInParallel.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqInParallel\obj\Debug\netcoreapp3.1\LinqInParallel.pdb

@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.pdb

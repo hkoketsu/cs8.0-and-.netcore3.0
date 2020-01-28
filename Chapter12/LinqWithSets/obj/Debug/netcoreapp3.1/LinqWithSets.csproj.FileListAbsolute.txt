@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithSets\bin\Debug\netcoreapp3.1\LinqWithSets.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithSets\bin\Debug\netcoreapp3.1\LinqWithSets.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithSets\bin\Debug\netcoreapp3.1\LinqWithSets.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithSets\bin\Debug\netcoreapp3.1\LinqWithSets.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithSets\bin\Debug\netcoreapp3.1\LinqWithSets.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithSets\bin\Debug\netcoreapp3.1\LinqWithSets.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithSets\obj\Debug\netcoreapp3.1\LinqWithSets.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithSets\obj\Debug\netcoreapp3.1\LinqWithSets.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithSets\obj\Debug\netcoreapp3.1\LinqWithSets.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithSets\obj\Debug\netcoreapp3.1\LinqWithSets.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter12\LinqWithSets\obj\Debug\netcoreapp3.1\LinqWithSets.pdb
