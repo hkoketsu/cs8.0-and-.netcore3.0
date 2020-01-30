@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\SynchronozingResourceAccess\bin\Debug\netcoreapp3.1\SynchronozingResourceAccess.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\SynchronozingResourceAccess\bin\Debug\netcoreapp3.1\SynchronozingResourceAccess.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\SynchronozingResourceAccess\bin\Debug\netcoreapp3.1\SynchronozingResourceAccess.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\SynchronozingResourceAccess\bin\Debug\netcoreapp3.1\SynchronozingResourceAccess.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\SynchronozingResourceAccess\bin\Debug\netcoreapp3.1\SynchronozingResourceAccess.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\SynchronozingResourceAccess\bin\Debug\netcoreapp3.1\SynchronozingResourceAccess.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\SynchronozingResourceAccess\obj\Debug\netcoreapp3.1\SynchronozingResourceAccess.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\SynchronozingResourceAccess\obj\Debug\netcoreapp3.1\SynchronozingResourceAccess.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\SynchronozingResourceAccess\obj\Debug\netcoreapp3.1\SynchronozingResourceAccess.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\SynchronozingResourceAccess\obj\Debug\netcoreapp3.1\SynchronozingResourceAccess.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\SynchronozingResourceAccess\obj\Debug\netcoreapp3.1\SynchronozingResourceAccess.pdb

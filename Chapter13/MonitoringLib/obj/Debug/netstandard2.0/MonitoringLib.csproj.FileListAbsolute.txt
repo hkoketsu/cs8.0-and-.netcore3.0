@@ -1,0 +1,8 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\MonitoringLib\bin\Debug\netstandard2.0\MonitoringLib.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\MonitoringLib\bin\Debug\netstandard2.0\MonitoringLib.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\MonitoringLib\bin\Debug\netstandard2.0\MonitoringLib.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\MonitoringLib\obj\Debug\netstandard2.0\MonitoringLib.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\MonitoringLib\obj\Debug\netstandard2.0\MonitoringLib.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\MonitoringLib\obj\Debug\netstandard2.0\MonitoringLib.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\MonitoringLib\obj\Debug\netstandard2.0\MonitoringLib.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\MonitoringLib\obj\Debug\netstandard2.0\MonitoringLib.pdb

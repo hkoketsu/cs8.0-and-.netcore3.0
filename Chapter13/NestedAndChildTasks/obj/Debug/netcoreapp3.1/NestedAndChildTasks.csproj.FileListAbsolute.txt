@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.pdb

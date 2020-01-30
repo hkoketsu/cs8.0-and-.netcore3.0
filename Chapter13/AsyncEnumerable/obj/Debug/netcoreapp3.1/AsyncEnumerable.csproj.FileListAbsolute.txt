@@ -1,0 +1,11 @@
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\AsyncEnumerable\bin\Debug\netcoreapp3.1\AsyncEnumerable.exe
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\AsyncEnumerable\bin\Debug\netcoreapp3.1\AsyncEnumerable.deps.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\AsyncEnumerable\bin\Debug\netcoreapp3.1\AsyncEnumerable.runtimeconfig.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\AsyncEnumerable\bin\Debug\netcoreapp3.1\AsyncEnumerable.runtimeconfig.dev.json
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\AsyncEnumerable\bin\Debug\netcoreapp3.1\AsyncEnumerable.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\AsyncEnumerable\bin\Debug\netcoreapp3.1\AsyncEnumerable.pdb
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\AsyncEnumerable\obj\Debug\netcoreapp3.1\AsyncEnumerable.csprojAssemblyReference.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\AsyncEnumerable\obj\Debug\netcoreapp3.1\AsyncEnumerable.AssemblyInfoInputs.cache
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\AsyncEnumerable\obj\Debug\netcoreapp3.1\AsyncEnumerable.AssemblyInfo.cs
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\AsyncEnumerable\obj\Debug\netcoreapp3.1\AsyncEnumerable.dll
+C:\Users\hirok\Codes\cs8.0-and-.netcore3.0\Chapter13\AsyncEnumerable\obj\Debug\netcoreapp3.1\AsyncEnumerable.pdb

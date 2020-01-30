@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"name": "Chapter13",
+			"path": "C:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\cs8dotnetcore3\\Chapter13"
+		},
+		{
+			"name": "MonitoringLib",
+			"path": "MonitoringLib"
+		},
+		{
+			"name": "MonitoringApp",
+			"path": "MonitoringApp"
+		},
+		{
+			"path": "WorkingWithTasks"
+		},
+		{
+			"path": "NestedAndChildTasks"
+		},
+		{
+			"path": "SynchronozingResourceAccess"
+		},
+		{
+			"path": "AsyncConsole"
+		},
+		{
+			"path": "AsyncEnumerable"
+		}
+	],
+	"settings": {}
+}
