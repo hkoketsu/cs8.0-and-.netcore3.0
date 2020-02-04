@@ -1,0 +1,8 @@
+c:\Users\hirok\Codes\cs8.0-and-.netcore3.0\PracticingApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.deps.json
+c:\Users\hirok\Codes\cs8.0-and-.netcore3.0\PracticingApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+c:\Users\hirok\Codes\cs8.0-and-.netcore3.0\PracticingApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+c:\Users\hirok\Codes\cs8.0-and-.netcore3.0\PracticingApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csprojAssemblyReference.cache
+c:\Users\hirok\Codes\cs8.0-and-.netcore3.0\PracticingApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+c:\Users\hirok\Codes\cs8.0-and-.netcore3.0\PracticingApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfo.cs
+c:\Users\hirok\Codes\cs8.0-and-.netcore3.0\PracticingApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+c:\Users\hirok\Codes\cs8.0-and-.netcore3.0\PracticingApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
