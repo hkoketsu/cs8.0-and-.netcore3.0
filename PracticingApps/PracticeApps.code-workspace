@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "NorthwindMvc"
+		},
+		{
+			"path": "NorthwindCms"
 		}
 	],
 	"settings": {}
