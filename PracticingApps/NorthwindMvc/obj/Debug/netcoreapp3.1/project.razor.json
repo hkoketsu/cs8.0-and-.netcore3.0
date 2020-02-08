@@ -20501,6 +20501,11 @@
   "RootNamespace": "NorthwindMvc",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindMvc\\Views\\Home\\Customers.cshtml",
+      "TargetPath": "Views\\Home\\Customers.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindMvc\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"

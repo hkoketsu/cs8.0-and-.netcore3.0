@@ -94,3 +94,4 @@ c:\Users\hirok\Codes\cs8.0-and-.netcore3.0\PracticingApps\NorthwindMvc\bin\Debug
 c:\Users\hirok\Codes\cs8.0-and-.netcore3.0\PracticingApps\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductDetail.cshtml.g.cs
 c:\Users\hirok\Codes\cs8.0-and-.netcore3.0\PracticingApps\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ModelBinding.cshtml.g.cs
 c:\Users\hirok\Codes\cs8.0-and-.netcore3.0\PracticingApps\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductsThatCostMoreThan.cshtml.g.cs
+c:\Users\hirok\Codes\cs8.0-and-.netcore3.0\PracticingApps\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
