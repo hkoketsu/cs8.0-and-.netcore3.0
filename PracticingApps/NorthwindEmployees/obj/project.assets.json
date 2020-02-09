@@ -1072,11 +1072,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
+      "projectUniqueName": "C:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
       "projectName": "NorthwindEmployees",
-      "projectPath": "c:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
+      "projectPath": "C:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
       "packagesPath": "C:\\Users\\hirok\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEmployees\\obj\\",
+      "outputPath": "C:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEmployees\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hirok\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1092,8 +1092,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
-              "projectPath": "c:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindContextLib\\NorthwindContextLib.csproj"
+            "C:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
+              "projectPath": "C:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindContextLib\\NorthwindContextLib.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {}
+    "C:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {
+    "C:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+        "projectUniqueName": "C:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
         "projectName": "NorthwindEntitiesLib",
-        "projectPath": "c:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+        "projectPath": "C:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
         "packagesPath": "C:\\Users\\hirok\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEntitiesLib\\obj\\",
+        "outputPath": "C:\\Users\\hirok\\Codes\\cs8.0-and-.netcore3.0\\PracticingApps\\NorthwindEntitiesLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hirok\\AppData\\Roaming\\NuGet\\NuGet.Config",
